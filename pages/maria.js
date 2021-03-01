@@ -1,3 +1,10 @@
-export default function MariaPrea(){
-  return(<h1>Página Maria Preá</h1>)
+import MariaPrea from '../components/MariaPrea'
+
+export default function maria(){
+  return(
+    <div>
+      <h1>Página Maria Preá</h1>
+      <MariaPrea/>
+    </div>
+  )
 }
