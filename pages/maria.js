@@ -5,6 +5,8 @@ export default function maria(){
     <div>
       <h1>Página Maria Preá</h1>
       <MariaPrea/>
+
+      <a href="/index">Voltar</a>
     </div>
   )
 }
